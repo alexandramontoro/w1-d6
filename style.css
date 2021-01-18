@@ -1,0 +1,24 @@
+body {
+    background-color:#9fccf1
+}
+    h1 {
+text-align:center;
+color: white;
+background-color: darkblue;
+}
+      
+table {
+    table-layout: fixed;
+    margin: auto; /* allineare tabella al centro*/
+    width: 620px;
+    border: 1px solid rgb(27, 156, 189);
+}
+
+td {
+border: 1px solid blue;
+text-align: center;
+}
+img {
+width: 200;
+ height: auto; 
+ }
